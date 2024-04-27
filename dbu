@@ -6,7 +6,7 @@ getgenv().Stats = {-- Name, Rebcap, Statcap, Play Solo ONLY?
 }
 getgenv().WebHooks = {
     ["Stats"] = "https://discord.com/api/webhooks/1233874192592539678/KwiVfsJmTKIwtiLVmrmuJrG_U2Jl8qm1q0geWeGZO6yY0LvsQT7IKgK_UcYQxZhgl9cs", -- Do you want to log your stat gain progress?
-    ["Rebs"] = "https://discord.com/api/webhooks/1233874192592539678/KwiVfsJmTKIwtiLVmrmuJrG_U2Jl8qm1q0geWeGZO6yY0LvsQT7IKgK_UcYQxZhgl9cs", -- Do you want to log your reb gain progress?
+    ["Rebs"] = "https://discord.com/api/webhooks/1233875603434901515/NnvYorwRwGIgopXvbosPo3VVm2PpzGNGqp5CSVJABCDarZliv0L_o4jaqwduy9fdv-s3", -- Do you want to log your reb gain progress?
 }
 -- This file was generated using Luraph Obfuscator v14.0.3 [https://lura.ph/]
 
